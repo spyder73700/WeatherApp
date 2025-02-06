@@ -39,6 +39,14 @@ A simple and user-friendly Android application built using **Kotlin**, **Firebas
 5. **XML** - For UI design.
 
 ---
+## ScreenShots
+![image](https://github.com/user-attachments/assets/a1e89f5e-11c7-46a8-b583-c96578ca2f3c)
+![image](https://github.com/user-attachments/assets/3a24dbd4-9302-40e3-9d2a-b2fe60bcff8c)
+![image](https://github.com/user-attachments/assets/75bcb03b-f5d6-4937-ae24-6c360835884f)
+![image](https://github.com/user-attachments/assets/1a47a870-1148-4bb5-85e7-f4babc0f42bb)
+
+
+
 
 ## Installation
 
